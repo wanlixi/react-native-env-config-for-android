@@ -14,6 +14,6 @@ mac osx:
 users/Downloads/applications/android-sdk-macosx/tools
 
 run：./android sdk
-
+or run: ./android avd
 menu: manages AVDS
 
